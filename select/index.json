@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "雷鳴 -out of kontrol-",
+  "base_artist": "move",
+  "createdAt": "2026-03-16T12:16:49.145973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雷鳴 -out of kontrol-",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/01_雷鳴_-out_of_kontrol-_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雷鳴 - OUT OF KONTROL -",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/02_雷鳴_-_OUT_OF_KONTROL_-_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雷鳴 (Out Of Kontrol)",
+      "artist": "M.o.v.e",
+      "has_synced": true,
+      "path": "select/03_雷鳴_(Out_Of_Kontrol)_M.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雷鳴 ～out of kontrol～",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/04_雷鳴_~out_of_kontrol~_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雷鳴",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": false,
+      "path": "select/05_雷鳴_PENGUIN_RESEARCH.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雷鳴 -out of kontrol-",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/06_雷鳴_-out_of_kontrol-_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雷鳴 〜out of kontrol〜",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/07_雷鳴_〜out_of_kontrol〜_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雷鳴 -out of kontrol-",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/08_雷鳴_-out_of_kontrol-_move.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雷鳴 ～out of kontrol～",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_雷鳴_~out_of_kontrol~_m.o.v.e.txt"
+    }
+  ]
+}
